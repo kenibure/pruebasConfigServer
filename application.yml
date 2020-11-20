@@ -1,0 +1,8 @@
+---
+spring:
+  profiles: profile1
+  mivar: AAAAAAAAAAAAAA
+---
+spring:
+  profiles: profile2
+  mivar: BBBBBBBBBBBBBB
