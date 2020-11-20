@@ -1,3 +1,2 @@
 spring:
-  profiles: profile1
   mivar: AAAAAAAAAAAAAA
